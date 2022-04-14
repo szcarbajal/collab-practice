@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-image: -webkit-linear-gradient(blue, black);
+}
+
+h1 {
+    font: 70px impact;
+}
