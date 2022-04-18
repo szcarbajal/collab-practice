@@ -13,4 +13,31 @@ body {
 
 h1 {
     font: 70px impact;
+    text-align: center; /*moved from index.html to style.css*/
+}
+
+nav {
+    border: 2px solid black;
+    background-color: olivedrab;
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.col {
+    color: white;
+    border: 1px solid white;
+    background-color: black;
+}
+
+.col h2 {
+    text-align: center;
+}
+
+footer {
+    border: 2px solid black;
+    background-color: purple;
+    text-align: center;
 }
