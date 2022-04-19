@@ -1,20 +1,20 @@
-* {
+/* * {
     box-sizing: border-box;
     text-decoration: none;
-}
+} */
 
-html {
+/* html {
     height: 100%;
-}
+} */
 
-body {
+/* body {
     background-image: -webkit-linear-gradient(blue, black);
-}
+} */
 
-h1 {
+/* h1 {
     font: 70px impact;
-    text-align: center; /*moved from index.html to style.css*/
-}
+    text-align: center;
+} */
 
 nav {
     border: 2px solid black;
@@ -29,7 +29,7 @@ nav {
 .col {
     color: white;
     border: 1px solid white;
-    background-color: black;
+    background-color: navy;
 }
 
 .col h2 {
